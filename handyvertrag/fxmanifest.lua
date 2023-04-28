@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 games {'gta5'}
-author 'SimplyV-RP & GermanforLife RP'
+author 'MySecondLife http://m2l.fun/'
 description 'Handyvertrag User Zahlen für Ihren Handyvertrag'
 version '1.2'
 
